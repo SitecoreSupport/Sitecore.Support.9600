@@ -44,8 +44,12 @@
       <HintPath>..\packages\SC.Sitecore.Kernel.8.2.4\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.XA.Feature.Maps, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SXA82.Sitecore.XA.Feature.Maps.1.4.0\lib\Sitecore.XA.Feature.Maps.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Geospatial, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SXA82.Sitecore.XA.Foundation.Geospatial.1.4.0\lib\Sitecore.XA.Foundation.Geospatial.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SXA82.Sitecore.XA.Foundation.SitecoreExtensions.1.4.0\lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Variants.Abstractions, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
